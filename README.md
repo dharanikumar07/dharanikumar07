@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/dharanikumar07/dharanikumar07/blob/main/GitHub.png)
 
 ## Hi there 👋
 
