@@ -1,4 +1,4 @@
-![logo](https://github.com/dharanikumar07/dharanikumar07/blob/main/GitHub.png)
+![logo](https://github.com/dharanikumar07/dharanikumar07/blob/main/Github.png)
 
 ## Hi there 👋
 
