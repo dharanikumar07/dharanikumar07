@@ -5,6 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+Scroll+down!+👇;+Loved+your+visit+❤️;+&center=true&size=30&color=ffffff">
   </a>
 </h1>
+<h3 align="center">A passionate Software developer from India.</h3>
+
+## 💫 About Me:
+🔭 I’m currently working on **Front-End Development**<br>🌱 I’m currently learning **React.JS and Redux**<br>💬 Ask me about **Graphic Designing and Programming**<br>⚡ Fun fact I think I am **CURIOUS**
+
 
 <!--
 **dharanikumar07/dharanikumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
