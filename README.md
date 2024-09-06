@@ -14,7 +14,7 @@
 ⚡ Fun fact I think I am **CURIOUS**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharanikumarr-07) 
+<a href="https://www.linkedin.com/in/dharanikumar-r07/" target="_blank"><img src="https://img.shields.io/badge/linkedin:  dharanikumar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
 
 # 💻 Tech Stack:
 <h3>Languages</h3>
