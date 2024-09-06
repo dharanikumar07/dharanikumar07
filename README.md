@@ -8,10 +8,12 @@
 <h3 align="center">A passionate Software developer from India.</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on **Software developer**<br>
-🌱 I’m currently learning **React.JS and Redux**<br>
-💬 Ask me about **Graphic Designing and Programming**<br>
-⚡ Fun fact I think I am **CURIOUS**
+- 💼 I’m currently working on **Software developer**<br>
+- 🌱 I’m currently learning **React JS and Spring**<br>
+- 💬 Ask me about **Programming**
+- 💫 Open to collaborating on exciting projects &nbsp;&nbsp;<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%239146FF.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
+</a>
 
 ## 🌐 Let's Connect:
 
@@ -19,9 +21,7 @@
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 &nbsp;&nbsp;
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%239146FF.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
-</a>
+
 &nbsp;&nbsp;
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
