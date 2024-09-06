@@ -13,19 +13,15 @@
 💬 Ask me about **Graphic Designing and Programming**<br>
 ⚡ Fun fact I think I am **CURIOUS**
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 
-<a href="https://www.linkedin.com/in/srikumar03/" target="_blank">
+<a href="https://www.linkedin.com/in/dharanikumar-r07/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/srikumar03/" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jkhmnbcmvb )
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/klkjmfdhgnmhj) 
-
 
 # 💻 Tech Stack:
 <h3>Languages</h3>
