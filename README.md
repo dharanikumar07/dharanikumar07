@@ -20,6 +20,10 @@
 </a>
 &nbsp;&nbsp;
 <a href="#" target="_blank">
+<img src="https://img.shields.io/badge/gmail%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
+</a>
+&nbsp;&nbsp;
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>
 
