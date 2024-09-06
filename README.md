@@ -70,9 +70,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br>
+![](https://github-readme-stats.vercel.app/api?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false)&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dharanikumar07&theme=radical&hide_border=true)
 
 
