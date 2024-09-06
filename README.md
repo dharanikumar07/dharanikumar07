@@ -12,14 +12,14 @@
 [![](https://visitcount.itsvg.in/api?id=dharanikumar07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
-
+<br>
 💼 I’m currently working on **Software developer**<br>
 
 🌱 I’m currently learning **React JS and Spring**<br>
 
 💬 Ask me about **Programming**<br>
 
-💫 Open to collaborating on exciting projects<br>
+💫 Open to collaborating on exciting projects<br><br>
 
 <a href="mailto:dharaniraja2004#gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%239146FF.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
