@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/srikumar03/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;background-color:ff0b67;" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&height=55px;)](https://linkedin.com/in/jkhmnbcmvb )
