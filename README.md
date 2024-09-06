@@ -8,10 +8,11 @@
 <h3 align="center">A passionate Software developer from India.</h3>
 
 ## 💫 About Me:
+
 💼 I’m currently working on **Software developer**<br>
 🌱 I’m currently learning **React JS and Spring**<br>
 💬 Ask me about **Programming**<br>
-💫 Open to collaborating on exciting projects
+💫 Open to collaborating on exciting projects<br>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%239146FF.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
 </a>
