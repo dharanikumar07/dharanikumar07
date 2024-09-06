@@ -19,7 +19,7 @@
 
 💫 Open to collaborating on exciting projects<br>
 
-<a href="#" target="_blank">
+<a href="dharaniraja2004@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%239146FF.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
 </a>
 
