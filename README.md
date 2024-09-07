@@ -1,4 +1,4 @@
-![logo](https://github.com/dharanikumar07/dharanikumar07/blob/main/Github.png)
+![logo](https://github.com/dharanikumar07/dharanikumar07/blob/main/github.png)
 <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
