@@ -15,7 +15,7 @@
 
 💼 I’m currently working on **Software developer**<br>
 
-🌱 I’m currently learning **React JS and Spring**<br>
+🌱 I’m currently learning **React JS and Laravel**<br>
 
 💬 Ask me about **Programming**<br>
 
