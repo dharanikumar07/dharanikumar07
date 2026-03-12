@@ -82,3 +82,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dharanikumar07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!--Contribution Graph-->
+## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharanikumar07&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
