@@ -76,8 +76,8 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false)&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=dharanikumar07&theme=radical&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dharanikumar07&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dharanikumar07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
