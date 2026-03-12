@@ -73,14 +73,14 @@
 ![Git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false)&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dharanikumar07&theme=radical&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dharanikumar07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# Streak Stats
+<img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
 
 <!--Contribution Graph-->
 ## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ
