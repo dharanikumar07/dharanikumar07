@@ -80,7 +80,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dharanikumar07&theme=radical&hide_border=true)
 
 # Streak Stats
-<img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+<img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=dharanikumar07&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
 
 <!--Contribution Graph-->
 ## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ
