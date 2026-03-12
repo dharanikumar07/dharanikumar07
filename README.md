@@ -76,10 +76,6 @@
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false)&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dharanikumar07&theme=radical&hide_border=true)
-
-# 📊 GitHub Stats
 
  <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=dharanikumar07&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
 
