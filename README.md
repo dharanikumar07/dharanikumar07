@@ -79,7 +79,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharanikumar07&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
 
 # Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=dharanikumar07&theme=highcontrast)]
+![GitHub Streak](https://streak-stats.demolab.com?user=dharanikumar07&theme=highcontrast
 
 <!--Contribution Graph-->
 ## 📈 Contribution Graph
