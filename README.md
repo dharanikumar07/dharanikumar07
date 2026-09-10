@@ -75,8 +75,3 @@
 # Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=dharanikumar07&theme=highcontrast)
 
-<!--Contribution Graph-->
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=dharanikumar07&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false)
-
